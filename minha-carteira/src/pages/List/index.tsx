@@ -1,11 +1,11 @@
 import React from 'react';
 
 const List: React.FC = () => {
-    return (
+  return (
     <div>
-        <h1>List</h1>
+      <h1>List</h1>
     </div>
-    );
+  );
 }
 
 export default List;
