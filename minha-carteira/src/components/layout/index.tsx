@@ -6,11 +6,14 @@ import Content from '../content';
 
 const Layout: React.FC = () => {
   return (
-      <Grid>
+  <div>
+
+    <Grid>
         <Aside />
         <MainHeader />
         <Content />
       </Grid>
+  </div>
   );
 }
 
